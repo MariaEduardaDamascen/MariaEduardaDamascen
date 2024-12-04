@@ -63,4 +63,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaDamascen&show_icons=true&theme=ambient_gradient#gh-dark-mode-only">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaDamascen&hide=hack,&layout=compact&langs_count=8&icons=true&theme=ambient_gradient#gh-dark-mode-only)](https://github.com/MariaEduardaDamascen/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaDamascen&hide=hack,&layout=compact&langs_count=8&icons=true&theme=ambient_gradient#gh-dark-mode-only)(https://github.com/MariaEduardaDamascen/github-readme-stats">
